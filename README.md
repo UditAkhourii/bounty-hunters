@@ -44,6 +44,11 @@ This project is licensed under the [Apache 2.0 License](LICENSE).
 
 This project is currently rate-limited to 10 tests/hour/user.
 
+## Model on HuggingFace
+
+Model is deployed on [Huggingface](https://huggingface.co/uditakhouri/BHT-1-2/) to see the deployed model. 
+Please note : This model is not an available to use directly on HuggingFace Inference API becuase we were not able to merge the model due to system compatibility. If you want to try the model, please use our official API at Postman only. [Postman Collection](http://postman.com/bounty-hunters/) (Use the generic API key provided, to make calls).
+
 ## Support
 
 For any inquiries or support, please contact [udit_2312res708@iitp.ac.in](mailto:udit_2312res708@iitp.ac.in).
