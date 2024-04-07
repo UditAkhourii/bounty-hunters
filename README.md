@@ -40,6 +40,10 @@ OR
 
 This project is licensed under the [Apache 2.0 License](LICENSE).
 
+## Limitation
+
+This project is currently rate-limited to 10 tests/hour/user.
+
 ## Support
 
 For any inquiries or support, please contact [udit_2312res708@iitp.ac.in](mailto:udit_2312res708@iitp.ac.in).
