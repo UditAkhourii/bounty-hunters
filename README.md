@@ -34,7 +34,7 @@ OR
 
 - Udit Raj Akhouri (@uditakhourii)
 - Ashutosh Kumar (@ashutosh8021)
-- Asish Kumar (@Ahambrahmasmi05)
+- Ashish Ranjan (@Ahambrahmasmi05)
 
 ## License
 
@@ -51,7 +51,7 @@ Please note : This model is not an available to use directly on HuggingFace Infe
 
 ## Support
 
-For any inquiries or support, please contact [udit_2312res708@iitp.ac.in](mailto:udit_2312res708@iitp.ac.in).
+For any inquiries or support, please contact [bountyhunteriitp@gmail.com](mailto:bountyhunteriitp@gmail.com).
 
 ## Acknowledgments
 
