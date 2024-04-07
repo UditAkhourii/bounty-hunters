@@ -16,7 +16,7 @@ Bounty Hunters is a real-time vulnerability scanner tool designed specifically f
 - [YouTube Video](https://youtu.be/flBnurC7jtI): Watch a demonstration of the Bounty Hunters model in action.
 - [Postman Collection](http://postman.com/bounty-hunters/): Explore and test the API endpoints conveniently using Postman.
 - Generic API Key: `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjYwMTMsIm5hbWUiOiJzYW1wbGV1c2VyIiwiaWF0IjoxNzEyNDMxMTg0LCJleHAiOjE4NzAxMTExODR9.yBUSr2RJWXT0mHv-Mb54jEECmcQMZFOhNor9tVDLJCU`
-- [Project Presentation](https://projectai.tech/123): Access the detailed presentation/PPT of the Bounty Hunters project.
+- [Project Presentation](https://docs.google.com/presentation/d/1KhYf9Yz-ea49Ao6K7CleXxWpzWBL4S_ae-j2HU1qOWc/edit?usp=sharing): Access the detailed presentation/PPT of the Bounty Hunters project.
 
 ## Usage
 
