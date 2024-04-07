@@ -26,6 +26,10 @@ To use the Bounty Hunters tool, follow these steps:
 2. Obtain the generic API key provided above for testing the API endpoints.
 3. Use the provided Postman collection to interact with the API and perform vulnerability scans on web3 smart contracts.
 
+OR
+1. Create your account
+2. Start using the interface and play around with the sample contracts provided. 
+
 ## Contributors
 
 - Udit Raj Akhouri (@uditakhourii)
